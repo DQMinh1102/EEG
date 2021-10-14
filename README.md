@@ -8,4 +8,6 @@ Finally, learn Python programming, design digital filters, and finish the produc
 Result: Successfully fabricated a fully functional product system that detects, stores and reviews the records.
 
 *GUI
-User can view signal in real time. Beside, they can stores and reviews the records.
+
+
+User can view signal in real time. Beside, they can store and review the records.
